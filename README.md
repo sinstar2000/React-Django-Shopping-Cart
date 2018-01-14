@@ -10,7 +10,7 @@ A simple Shopping-cart built with React and Django REST Framework(DRF).
 ### Installation
 Clone this repository:
 
-    git clone https://github.com/damnee562/shopping-cart.git
+    git clone https://github.com/sinstar2000/shopping-cart.git
 
 Create virtualenv and install all requirements in **backend** directory:
 
